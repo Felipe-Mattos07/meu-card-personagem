@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
 
-* {
+.container {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body {
+.card {
     background: linear-gradient(to bottom, #0a0f2c, #000000);
     color: #ffffff;
     font-family: "Cinzel", serif;
