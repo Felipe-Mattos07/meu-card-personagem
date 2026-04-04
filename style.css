@@ -11,3 +11,9 @@ body {
     color: #ffffff;
     font-family: "Cinzel", serif;
 }
+
+h1 {
+    padding: 1rem;
+    background-color: #2f4f4f;
+    text-align: center;
+}
