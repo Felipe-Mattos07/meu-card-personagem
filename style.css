@@ -10,14 +10,13 @@
     background: linear-gradient(to bottom, #0a0f2c, #000000);
     color: #ffffff;
     font-family: "Cinzel", serif;
+    text-align: center;
 }
 
 h1 {
     background-color: #2f4f4f;
-    text-align: center;
 }
 
 .descricao {
     background-color: #2f4f4f;
-    text-align: center;
 }
