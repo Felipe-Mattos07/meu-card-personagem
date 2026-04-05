@@ -9,11 +9,15 @@
 }
 
 .card {
+    width: 100%;
+    max-width: 350px;
     background: linear-gradient(to bottom, #0a0f2c, #000000);
+    padding: 25px;
     color: #ffffff;
     font-family: "Cinzel", serif;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
 }
 
 h1 {
