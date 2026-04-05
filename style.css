@@ -48,3 +48,8 @@ ul {
     list-style: none;
     padding: 0;
 }
+
+li {
+    margin: 10px;
+    color: #cfd8dc;
+}
