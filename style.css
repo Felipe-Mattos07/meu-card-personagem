@@ -34,5 +34,7 @@ h1 {
 }
 
 .descricao {
-    background-color: #2f4f4f;
+    background-color: #b0bec5;
+    margin: 10px 0 20px;
+    line-height: 1.5;
 }
